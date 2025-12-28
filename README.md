@@ -1,4 +1,4 @@
-# EcoTracer
+# Eco Friendly Habit Tracker
 
 EcoTracer  EcoFocused Habit Tracking System
 EcoTracer is a web based habit tracking application developed using the Angular framework.
