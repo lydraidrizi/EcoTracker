@@ -11,14 +11,14 @@ The platform integrates a progression system based on experience points (XP), st
 All user data is stored locally to ensure fast access and offline functionality.
 
 # Key Features
-Habit Management
+# Habit Management
 Creation, modification, and removal of habits
 
-Daily goal tracking
+ Daily goal tracking
 
 Categorization of eco‑related activities
 
-Gamification and Progression
+# Gamification and Progression
 XP accumulation and level progression
 
 Streak tracking
@@ -27,7 +27,7 @@ Streak Freeze tokens to preserve progress
 
 Achievement system based on performance milestones
 
-Dashboard and Analytics
+# Dashboard and Analytics
 Summary of XP, streaks, and eco score
 
 Daily progress indicators
@@ -36,14 +36,14 @@ Weekly XP visualization
 
 Motivational daily quote system
 
-Additional Functionality
+# Additional Functionality
 Profile page with user statistics
 
 Habit history log with timestamps
 
 Responsive interface with Bootstrap‑inspired styling
 
-Technologies Used
+# Technologies Used
 Angular
 
 TypeScript
