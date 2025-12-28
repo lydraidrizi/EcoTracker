@@ -5,12 +5,12 @@ EcoTracer is a web based habit tracking application developed using the Angular 
 The system is designed to support environmentally responsible behavior through structured habit management, progress monitoring, and a lightweight gamification model.
 The project demonstrates practical application of component based architecture, state persistence, user‑centric interface design, and modular software development.
 
-Overview
+# Overview
 EcoTracer enables users to define, track, and evaluate eco‑friendly habits.
 The platform integrates a progression system based on experience points (XP), streaks, achievements, and performance analytics.
 All user data is stored locally to ensure fast access and offline functionality.
 
-Key Features
+# Key Features
 Habit Management
 Creation, modification, and removal of habits
 
